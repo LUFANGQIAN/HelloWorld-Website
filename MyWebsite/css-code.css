@@ -1,0 +1,36 @@
+
+
+div {
+    color: blueviolet;
+    font-size: x-large;
+
+}
+
+/* 类选择器 */
+.niganma{
+    color:blanchedalmond;
+
+}
+.aiyou{
+    font-size: 145px;
+
+}
+
+/* id选择器 */
+
+#hello{
+    color:cadetblue;
+
+}
+
+#a{
+    font-size: 100px;
+
+}
+
+/* 通配符标签 */
+
+*{
+    color:green;
+
+}
